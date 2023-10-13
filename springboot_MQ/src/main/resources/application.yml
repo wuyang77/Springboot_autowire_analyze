@@ -1,0 +1,25 @@
+server:
+  port: 8080
+
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: order
+
+  rabbitmq:
+    host: localhost
+    port: 5672
+  activemq:
+    broker-url: tcp://localhost:61616
+  jms:
+    # ?????? ???????
+    pub-sub-domain: true
+    template:
+      default-destination: wuyang
+
+rocketmq:
+  name-server: 192.168.6.100:9876
+  producer:
+    group: group_rocketmq
+

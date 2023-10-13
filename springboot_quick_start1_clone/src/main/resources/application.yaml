@@ -1,0 +1,33 @@
+server:
+  port: 82
+
+country: china
+province: beijing
+area: haiding
+party: true
+birth: 1949-10-01
+
+user:
+  name: wuyang777
+  age: 18
+user2:
+  name: wuyang666
+  age: 18
+
+a:
+  b:
+    c:
+      d:
+        e: 123
+likes:
+  - game
+  - music
+  - sleep
+
+likes2: [ game,music,sleep ]
+users:
+  - name: wuyang
+    age: 18
+  - name: wuyang88
+    age: 17
+users2: [{ name: wuyang,age: 17 },{ name: wuyang,age: 18}]

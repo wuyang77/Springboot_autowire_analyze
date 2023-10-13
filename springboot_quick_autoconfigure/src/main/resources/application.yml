@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+servers:
+  ipAddress: 192.168.6.102
+  port: 6666
+  timeout: -1
+  server-timeout: 3
+  data-size: 10MB
+
+
+
+datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver456
+    password: "0127"

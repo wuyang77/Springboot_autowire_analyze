@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36cce474-b570-40db-8db9-f4b6b77ad421" name="Changes" comment="Springboot基础，开发以及原理的学习" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/springboot_elasticsearch/springboot_task">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/springboot_elasticsearch/springboot_task">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springboot_elasticsearch" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="userSettingsFile" value="D:\dev_tools\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2WIe5MvBAt92WaNwuE1E2vg54xP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/code/Springboot/springboot_bean_int/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.31875718",
+    "ruby.rails.projectView.checked": "true",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "two.files.diff.last.used.file": "E:/code/Springboot/springboot_quick_start1/pom2.xml",
+    "typescript.add.unambiguous.imports.on.the.fly": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo",
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\Springboot\springboot_bean_int\src\main\resources" />
+      <recent name="E:\code\Springboot\springboot_quick_ssmp\src\main\resources" />
+      <recent name="E:\code\Springboot\springboot_admin_client\src\main\resources\static" />
+      <recent name="E:\code\Springboot\springboot_admin_client\src\main\java\com\wuyang" />
+      <recent name="E:\code\Springboot\springboot_MQ\src\main\java\com\wuyang\service\impl\rabbitmq\topic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\Springboot\springboot_mail\src\main\resources\static" />
+      <recent name="E:\code\Springboot\springboot_quick_start1_clone\src\main\resources\bak" />
+      <recent name="E:\code\Springboot\springboot_quick_start1_clone\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wuyang" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wuyang.bean.importdefinitionregisterar" />
+      <recent name="com.wuyang.app" />
+      <recent name="com.wuyang.config" />
+      <recent name="service.impl" />
+      <recent name="com.wuyang.bean" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_admin_server" />
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/springboot_quick_start1_clone" />
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuyang.App" />
+      <module name="springboot_bean_load" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuyang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuyang.app.App68" />
+      <module name="springboot_bean_int" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuyang.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuyang.app.App8" />
+      <module name="springboot_bean_int" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuyang.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuyang.app.App9" />
+      <module name="springboot_bean_int" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuyang.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="springboot_quick_start1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="springboot_quick_start1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot_bean_properties" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuyang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_admin_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootAdminClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootAdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_admin_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootAdminServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootJetcacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_jetcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootJetcacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_mail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootMailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMongodbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootMongodbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_MQ" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootMqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootQuartzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuickAutoconfigureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_quick_autoconfigure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootQuickAutoconfigureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuickDruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_quick_druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootQuickDruidApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuickJunitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_quick_junit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootQuickJunitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuickMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_quick_mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootQuickMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuickSsmpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_quick_ssmp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootQuickSsmpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuickStart1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_quick_start1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootQuickStart1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuickStart1CloneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_quick_start1_clone" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootQuickStart1CloneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuickStart2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_quick_start2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootQuickStart2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootQuickTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_quick_test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootQuickTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wuyang.SpringbootRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot_task.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboot_task.SpringbootTaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.App68" />
+      <item itemvalue="Application.App8" />
+      <item itemvalue="Application.App9" />
+      <item itemvalue="Spring Boot.SpringbootAdminServerApplication" />
+      <item itemvalue="Spring Boot.SpringbootAdminClientApplication" />
+      <item itemvalue="Spring Boot.SpringbootMailApplication" />
+      <item itemvalue="Spring Boot.SpringbootQuartzApplication" />
+      <item itemvalue="Spring Boot.SpringbootJetcacheApplication" />
+      <item itemvalue="Spring Boot.SpringbootTaskApplication" />
+      <item itemvalue="Spring Boot.SpringbootElasticsearchApplication" />
+      <item itemvalue="Spring Boot.SpringbootMongodbApplication" />
+      <item itemvalue="Spring Boot.SpringbootQuickAutoconfigureApplication" />
+      <item itemvalue="Spring Boot.SpringbootQuickDruidApplication" />
+      <item itemvalue="Spring Boot.SpringbootQuickTestApplication" />
+      <item itemvalue="Spring Boot.SpringbootRedisApplication" />
+      <item itemvalue="Spring Boot.SpringbootQuickSsmpApplication" />
+      <item itemvalue="Spring Boot.SpringbootQuickJunitApplication" />
+      <item itemvalue="Spring Boot.SpringbootQuickMybatisApplication" />
+      <item itemvalue="Spring Boot.SpringbootQuickStart1Application" />
+      <item itemvalue="Spring Boot.SpringbootQuickStart1CloneApplication" />
+      <item itemvalue="Spring Boot.SpringbootQuickStart2Application" />
+      <item itemvalue="Spring Boot.SpringbootMqApplication" />
+      <item itemvalue="Spring Boot.App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36cce474-b570-40db-8db9-f4b6b77ad421" name="Changes" comment="" />
+      <created>1692968412425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692968412425</updated>
+      <workItem from="1696424337834" duration="42000" />
+      <workItem from="1696424385114" duration="1002000" />
+      <workItem from="1696425397949" duration="61000" />
+      <workItem from="1696425468160" duration="3000" />
+      <workItem from="1696425474394" duration="193000" />
+      <workItem from="1696425681323" duration="4000" />
+      <workItem from="1696425690826" duration="1125000" />
+      <workItem from="1696426828227" duration="18785000" />
+      <workItem from="1696446530503" duration="2396000" />
+      <workItem from="1696448944821" duration="2186000" />
+      <workItem from="1696498753840" duration="2799000" />
+      <workItem from="1696501573099" duration="6231000" />
+      <workItem from="1696643839840" duration="17694000" />
+      <workItem from="1696685852035" duration="1837000" />
+      <workItem from="1696752793687" duration="5749000" />
+      <workItem from="1696758600590" duration="22815000" />
+      <workItem from="1696829862552" duration="1644000" />
+      <workItem from="1696831523168" duration="95000" />
+      <workItem from="1696831625757" duration="10000" />
+      <workItem from="1696831666129" duration="14423000" />
+      <workItem from="1696938457173" duration="9301000" />
+      <workItem from="1697006389842" duration="5971000" />
+      <workItem from="1697014867724" duration="299000" />
+      <workItem from="1697015179257" duration="130000" />
+      <workItem from="1697015320134" duration="3412000" />
+      <workItem from="1697020036221" duration="15983000" />
+      <workItem from="1697096009654" duration="8628000" />
+      <workItem from="1697192970071" duration="1202000" />
+      <workItem from="1697194179346" duration="4396000" />
+      <workItem from="1697198588048" duration="21000" />
+      <workItem from="1697198615070" duration="3276000" />
+    </task>
+    <task id="LOCAL-00001" summary="Springboot基础，开发以及原理的学习">
+      <option name="closed" value="true" />
+      <created>1697205119017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697205119017</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Springboot基础，开发以及原理的学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="Springboot基础，开发以及原理的学习" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot_quick_test/src/main/java/com/wuyang/Controller/UserController2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../localRepository/org/springframework/boot/spring-boot-autoconfigure/3.1.4/spring-boot-autoconfigure-3.1.4-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.concurrent.ExecutionException" package="java.util.concurrent" />
+          <option name="timeStamp" value="9" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

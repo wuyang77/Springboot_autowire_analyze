@@ -1,0 +1,59 @@
+server:
+  port: 8087
+
+spring:
+  boot:
+    admin:
+      client:
+        url: http://127.0.0.1:8080
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/recruit?serverTimezone=UTC
+    username: root
+    password: 1234
+    type: com.alibaba.druid.pool.DruidDataSource
+
+
+#xmemcached:
+#  servers: localhost:8888
+#  pool-size: 10
+#  op-timeout: 3000
+
+
+
+
+#  cache:
+#    type: redis
+#    redis:
+#      use-key-prefix: true
+#      cache-null-values: true
+#      key-prefix: aa
+#      time-to-live: 10s
+#  data:
+#    redis:
+#      host: 127.0.0.1
+#      port: 6379
+
+#mybatis-plus:
+#  global-config:
+#    db-config:
+#      table-prefix:
+
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+management:
+  endpoint:
+    health:
+      show-details: always
+
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+    enabled-by-default: true
+
+

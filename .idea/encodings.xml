@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springboot_MQ/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_admin_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_admin_server/springboot_admin_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_admin_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_bean_int/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_bean_int/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_bean_load/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_bean_load/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_bean_properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_bean_properties/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_elasticsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_jetcache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_autoconfigure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_druid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_junit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_mybatis_plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_mybatis_plus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_ssmp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_start1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_start1_clone/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_start2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_start3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_start3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_start4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_start4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_quick_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_redis/src/main/java" charset="UTF-8" />
+  </component>
+</project>

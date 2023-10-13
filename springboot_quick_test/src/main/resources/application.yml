@@ -1,0 +1,24 @@
+server:
+  port: 8087
+
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: 1234
+    url: jdbc:h2:~/test
+    type: com.zaxxer.hikari.HikariDataSource
+  h2:
+    console:
+      enabled: false #上线之后必须要关掉
+      path: /h2
+
+#mybatis-plus:
+#  global-config:
+#    db-config:
+#      table-prefix:
+
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

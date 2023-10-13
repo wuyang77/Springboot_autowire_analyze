@@ -1,0 +1,16 @@
+server:
+  port: 81
+  servlet:
+    context-path: /test
+
+baseDir: D:\windows
+
+tempDir: ${baseDir}\temp
+#支持引用和转义字符
+tempDir2: "${baseDir}\t emp \t1 \t2 \t3"
+
+datasource:
+  driver: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://localhost/springboot-db
+  username: root
+  password: 1234

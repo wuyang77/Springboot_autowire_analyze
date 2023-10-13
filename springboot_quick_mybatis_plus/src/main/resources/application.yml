@@ -1,0 +1,15 @@
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/recruit?serverTimezone=UTC
+    username: root
+    password: 1234
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: null
+logging:
+  level:
+    root: info
